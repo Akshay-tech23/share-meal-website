@@ -1,5 +1,5 @@
 window.SHARE_MEAL_CONFIG = {
-  "siteUrl": "",
+  "siteUrl": "https://akshay-tech23.github.io/share-meal-website/",
   "contactEmail": "",
   "repositoryUrl": "https://github.com/Akshay-tech23/Share-Meal"
 };
